@@ -62,7 +62,7 @@
   ---
 
   ### :writing_hand: Blog Posts :
-  - :telescope: [https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)
+  - :telescope: [10 Reasons I Love Managed WordPress Hosting (+ My Favourite Providers)](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)
 
 </div>
 
