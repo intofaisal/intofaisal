@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   ---
 
-  ### :woman_technologist: About Me :
+  ### :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -59,6 +59,10 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intofaisal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+  ---
+
+  ### :writing_hand: Blog Posts :
+  - :telescope: [https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)
 
 </div>
 
