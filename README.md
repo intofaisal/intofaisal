@@ -58,9 +58,9 @@
 
   ### :writing_hand: Blog Posts ::telescope: 
   [7 Project Management Strategies To Get Ahead Of The Game + Tools](https://wedevs.com/blog/378082/waterfall-methodology-for-project-management/)&nbsp;
-  [[10 Reasons I Love Managed WordPress Hosting + My Favourite Providers](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)&nbsp;
   [10 Reasons I Love Managed WordPress Hosting + My Favourite Providers](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)&nbsp;
-  [The Ultimate Guide to Content Repurposing in 2023](https://wphive.com/articles/content-repurposing-ultimate-guide/)https://wphive.com/articles/content-repurposing-ultimate-guide/)&nbsp;
+  [10 Reasons I Love Managed WordPress Hosting + My Favourite Providers](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)&nbsp;
+  [The Ultimate Guide to Content Repurposing in 2023](https://wphive.com/articles/content-repurposing-ultimate-guide/)&nbsp;
   [How to Use Important Functions of Data Analytics in Excel and Google Sheets](https://wphive.com/tutorials/most-used-functions-of-data-analytics-in-excel-google-sheets/)&nbsp;
   
   
