@@ -56,7 +56,7 @@
 
   ---
 
-  ### :writing_hand: Blog Posts ::telescope: 
+  ### :writing_hand: Blog Posts
 :telescope: [7 Project Management Strategies To Get Ahead Of The Game + Tools](https://wedevs.com/blog/378082/waterfall-methodology-for-project-management/)&nbsp;
 
 :telescope: [10 Reasons I Love Managed WordPress Hosting + My Favourite Providers](https://faisalanik.com/wordpress/reasons-to-love-managed-wordpress-hosting/)&nbsp;
